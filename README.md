@@ -29,7 +29,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbista&layout=compact&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbista&" alt="ishanbista" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbista&layout=compact&theme=dark" alt="ishanbista" /></p>
 
 
 
