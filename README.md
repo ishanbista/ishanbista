@@ -29,7 +29,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbista&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&t=123)
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ishanbista&theme=dark&t=123)
 
 
 
