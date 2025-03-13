@@ -29,7 +29,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbista&layout=compact&theme=dark)
 
-(https://streak-stats.demolab.com/?username=ishanbista&theme=dark)
+![Top Languages](https://streak-stats.demolab.com/?username=ishanbista&layout=compact&theme=dark)
 
 
 
