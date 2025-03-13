@@ -30,7 +30,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbista&layout=compact&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbista&" alt="ishanbista" /></p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishanbista)
+
 
 
 
