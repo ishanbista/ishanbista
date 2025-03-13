@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MERN Stack, Data Engineering, UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ishanbista?tab=repositories](https://github.com/ishanbista?tab=repositories)
+- 👨‍💻 All of my projects are available at : [https://github.com/ishanbista?tab=repositories](https://github.com/ishanbista?tab=repositories)
 
-- 📫 How to reach me **mbista313@gmail.com**
+- 📫 How to reach me : **mbista313@gmail.com**
 
 - 📄 Know more about me through my resume [https://drive.google.com/file/d/16QFUmalNC8XrQhFIr7lVu6Zuov3-rzg7/view?usp=sharing](https://drive.google.com/file/d/16QFUmalNC8XrQhFIr7lVu6Zuov3-rzg7/view?usp=sharing)
 
