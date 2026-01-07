@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Bista</h1>
-<h3 align="center">A passionate and aspiring Computer Engineer | Front End Developer</h3>
+<h3 align="center">Assoicate ERP Developer || Microsoft Business Central </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishanbista&label=Profile%20views&color=0e75b6&style=flat" alt="ishanbista" /> </p>
 
